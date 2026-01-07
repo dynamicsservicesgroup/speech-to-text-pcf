@@ -2,14 +2,14 @@
 <p>The Speech-to-Text PCF Control is a reusable Power Apps component built using the Microsoft Power Platform Component Framework. It allows app makers to add voice recognition capabilities directly to form fields and text boxes without writing custom web resource code.</p>
 <p><strong>Features</strong></p>
 <ul style="list-style-type: circle;">
-<li>Real-time Speech Recognition: Captures microphone input and converts it to text dynamically as the user speaks. <br />Responsive Design: Works reliably across desktop and mobile clients.<br />Seamless Power Apps Integration: Binds easily to Model-Driven and Canvas app text fields.<br />Low Code/No Code Deployment: Packaged as a PCF solution for rapid installation.</li>
+<li>Real-time Speech Recognition: Captures microphone input and converts it to text dynamically as the user speaks.<li>Responsive Design: Works reliably across desktop and mobile clients.</li><li>Seamless Power Apps Integration: Binds easily to Model-Driven and Canvas app text fields.</li><li>Low Code/No Code Deployment: Packaged as a PCF solution for rapid installation.</li></li>
 </ul>
-<p>&nbsp;</p>
+<p>
 <p><strong>Getting Started</strong></p>
 <p><strong>Prerequisites</strong></p>
 <p>To use this component, you must have:</p>
 <ul style="list-style-type: circle;">
-<li>Power Apps environment with PCF support.</li><br /><li>Power Apps CLI installed (for local build/test).</li><br /><li>Node.js</li><br /><li>A modern browser with microphone permissions.</li><br /><br />
+<li>Power Apps environment with PCF support.</li><li>Power Apps CLI installed (for local build/test).</li><li>Node.js</li><li>A modern browser with microphone permissions.</li>
 </ul>
 <p><strong>Installation</strong></p>
 <p>Download / Clone Repository</p>
@@ -30,7 +30,6 @@
 <li>&nbsp;Configure supported languages.</li>
 <li>&nbsp;Toggle real-time vs push-to-talk.</li>
 </ul>
-<p>&nbsp;</p>
 <p dir="auto"><strong>Usage</strong></p>
 <p dir="auto">Once deployed, the control will render an interactive UI element (microphone icon) next to the bound text field:</p>
 <ul style="list-style-type: circle;">
@@ -47,6 +46,6 @@
 <li>Create a feature branch (git checkout -b feature-xyz).</li>
 <li>Submit a Pull Request with clear descriptions and testing instructions.</li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>License</strong></p>
 <p>This project is released under the MIT License.</p>
+
